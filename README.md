@@ -1,2 +1,2 @@
 # coding-practise
-This repo houses the DSA code examples from the GFG website. All of the examples are written in C/C++
+This repo houses some of the time-pass examples I did. All of the examples are written in C/C++
